@@ -70,7 +70,7 @@ if (contactForm) {
     const fecha = inputs[3].value;
     const mensaje = inputs[4].value.trim();
     const texto = `Hola Carlo, me gustaría cotizar un evento.%0A%0ANombre: ${nombre}%0ATeléfono: ${telefono}%0ATipo de evento: ${tipoEvento}%0AFecha: ${fecha}%0AIdea: ${mensaje}`;
-    window.open(`https://wa.me/5210000000000?text=${texto}`, "_blank");
+    window.open(`https://wa.me/526181747715?text=${texto}`, "_blank");
   });
 }
 
